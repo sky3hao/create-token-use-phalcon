@@ -1,0 +1,6 @@
+{
+    "-1000" : "Token invalid!",
+    "-1001" : "Token illegal!",
+    "-1002" : "Token expired!",
+    "-1003" : "Token create error!"
+}
