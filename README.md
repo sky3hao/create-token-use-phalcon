@@ -3,5 +3,5 @@
 
 ````C
 // http post 
-http://you.url.com/token/get
+http://your.url/token/get
 ````
